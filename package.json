@@ -33,7 +33,7 @@
     "through2": "^2.0.0"
   },
   "dependencies": {
-    "aedes-packet": "^1.0.0",
+    "aedes-packet": "https://github.com/fodori/aedes-packet",
     "from2": "^2.1.0",
     "qlobber": "^1.8.0",
     "safe-buffer": "^5.0.1"
